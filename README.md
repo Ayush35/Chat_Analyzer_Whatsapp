@@ -1,7 +1,7 @@
 
 ### Chat_Analyzer_Whatsapp# 
 
-Check out the Deployed Web App - [Here](https://deschat.herokuapp.com/)
+Check out the Deployed Web App - [Here](https://ayush35-deschat-app-g2jo01.streamlit.app/)
 
 ### Software And Tools Requirements
 
